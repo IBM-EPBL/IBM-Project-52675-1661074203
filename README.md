@@ -1,5 +1,10 @@
 # IBM-Project-52675-1661074203
-[CUSTOMER CARE REGISTRY page1 (1).pptx](https://github.com/IBM-EPBL/IBM-Project-52675-1661074203/files/9779017/CUSTOMER.CARE.REGISTRY.page1.1.pptx)
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset=https://github.com/IBM-EPBL/IBM-Project-52675-1661074203/files/9779017/CUSTOMER.CARE.REGISTRY.page1.1.pptx">
+  <source media="(prefers-color-scheme: light)" srcset=https://github.com/IBM-EPBL/IBM-Project-52675-1661074203/files/9779017/CUSTOMER.CARE.REGISTRY.page1.1.pptx">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src=https://github.com/IBM-EPBL/IBM-Project-52675-1661074203/files/9779017/CUSTOMER.CARE.REGISTRY.page1.1.pptx">
+</picture>
+
 **[CUSTOMER CARE REGISTRY](url)**
 1. TECHNOLOGY : CLOUD APP DEVELOPMENT
 2. TEAM ID          : PNT2022TMID40819
@@ -37,4 +42,6 @@ USER : They can register for an account. After the login, they can create the co
 -  Functional  Requirements
 - Data Flow Diagrams
 - Technology Architecture
+
+`NARASU'S SARATHY INSTITUTE OF TECHNOLOGY- SALEM`
 
