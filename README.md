@@ -1,9 +1,5 @@
 # IBM-Project-52675-1661074203
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset=https://github.com/IBM-EPBL/IBM-Project-52675-1661074203/files/9779017/CUSTOMER.CARE.REGISTRY.page1.1.pptx">
-  <source media="(prefers-color-scheme: light)" srcset=https://github.com/IBM-EPBL/IBM-Project-52675-1661074203/files/9779017/CUSTOMER.CARE.REGISTRY.page1.1.pptx">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src=https://github.com/IBM-EPBL/IBM-Project-52675-1661074203/files/9779017/CUSTOMER.CARE.REGISTRY.page1.1.pptx">
-</picture>
+https://github.com/IBM-EPBL/IBM-Project-52675-1661074203/commit/f2fc5080e5d075e0fec1098ff0235b27e08296ca#r86703093
 
 **[CUSTOMER CARE REGISTRY](url)**
 1. TECHNOLOGY : CLOUD APP DEVELOPMENT
