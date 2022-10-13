@@ -1,7 +1,8 @@
 # IBM-Project-52675-1661074203
-https://github.com/IBM-EPBL/IBM-Project-52675-1661074203/commit/f2fc5080e5d075e0fec1098ff0235b27e08296ca#r86703093
 
-**[CUSTOMER CARE REGISTRY](url)** 
+
+
+👨‍💻**[CUSTOMER CARE REGISTRY](url)**👨‍💻
 1. TECHNOLOGY : CLOUD APP DEVELOPMENT
 2. TEAM ID          : PNT2022TMID40819
 3. PROJECT GROUP NAME : CUSTOMERCAREREGISTRY29GP
@@ -14,7 +15,7 @@ ADMIN : The main role and responsibility of the admin are to take care of the wh
 
 USER : They can register for an account. After the login, they can create the complaint with a description of the problem they are facing. Each user will be assigned with an agent. They can view the status of their complaint.
 
-🧑🏻‍🦰 **TEAM MEMBERS**
+👨‍🎓👨‍🎓**TEAM MEMBERS**👨‍🎓👨‍🎓
 
 1. M.SABARESH
 2. K.PURUSOTHAMAN
@@ -39,5 +40,5 @@ USER : They can register for an account. After the login, they can create the co
 - Data Flow Diagrams
 - Technology Architecture
 
-**`NARASU'S SARATHY INSTITUTE OF TECHNOLOGY- SALEM`**
+**`🏫 NARASU'S SARATHY INSTITUTE OF TECHNOLOGY- SALEM`**
 
