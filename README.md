@@ -39,5 +39,5 @@ USER : They can register for an account. After the login, they can create the co
 - Data Flow Diagrams
 - Technology Architecture
 
-`NARASU'S SARATHY INSTITUTE OF TECHNOLOGY- SALEM`
+**`NARASU'S SARATHY INSTITUTE OF TECHNOLOGY- SALEM`**
 
