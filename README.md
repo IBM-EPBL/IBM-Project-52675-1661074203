@@ -19,7 +19,7 @@ USER : They can register for an account. After the login, they can create the co
 
 1. M.SABARESH
 2. K.PURUSOTHAMAN
-3. M.K.RAVI BHARATHI
+3. M.K.RAVIBHARATHI
 4. S.VIGNESHWARAN
 
 **🧩 IDEATION PHASE**
