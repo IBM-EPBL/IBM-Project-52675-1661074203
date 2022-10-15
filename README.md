@@ -1,5 +1,9 @@
 ![CUSTOMER CARE REGISTRY page1](https://user-images.githubusercontent.com/105087810/195990419-c8982670-1215-4e5a-82b4-b96bcef2752f.png)
 # IBM-Project-52675-1661074203
+<h2><picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.gif" alt="🌱" width="32" height="32">
+</picture> Introduction :</h2><i>
 
 
 
@@ -41,5 +45,11 @@ USER : They can register for an account. After the login, they can create the co
 - Data Flow Diagrams
 - Technology Architecture
 
-**`🏫 NARASU'S SARATHY INSTITUTE OF TECHNOLOGY- SALEM`**
+<div align="center">
+ <h5> Made with <picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2764_fe0f/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2764_fe0f/512.gif" alt="❤" width="12" height="12">
+</picture> in India | 🏫 NARASU'S SARATHY INSTITUTE OF TECHNOLOGY- SALEM </h5>
+
+
 
