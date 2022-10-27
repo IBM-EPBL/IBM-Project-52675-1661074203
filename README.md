@@ -62,10 +62,7 @@ USER : They can register for an account. After the login, they can create the co
   
   
 <div align="center">
- <h5> Made with <picture>
-  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2764_fe0f/512.webp" type="image/webp">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2764_fe0f/512.gif" alt="❤" width="12" height="12">
-</picture> in India | 🏫 NARASU'S SARATHY INSTITUTE OF TECHNOLOGY- SALEM </h5>
+  | 🏫 NARASU'S SARATHY INSTITUTE OF TECHNOLOGY- SALEM </h5>
 
 
 
