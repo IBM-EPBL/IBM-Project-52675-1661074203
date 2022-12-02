@@ -1,5 +1,5 @@
 Docker desktop open
-account settings - > repository create [sabri/name]
+account settings - > repository create [sabari/name]
 ----------------------------------------------------------------------------
 Creating an image :
 >>docker build -t sabari/flask .
