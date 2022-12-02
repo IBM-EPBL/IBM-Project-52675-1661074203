@@ -73,5 +73,5 @@ and type this
 after that go to chrome and search  
 localhost:80
 
-kubectl -n kubernetes-dashboard get service
+kubectl -n kubernetes-dashboard  get service
 
